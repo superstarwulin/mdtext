@@ -2,10 +2,10 @@ rn 学习计划
 	
 \ | 技术点 | 产出
 ------------ | ------------- | ------------
-1 | 框架环境  | run、文本
-5 | es6  | demo、文本
-2 | rn  | 文本
+1 | 框架环境  | run、[文本](https://github.com/superstarwulin/mdtext/issues/1)
+5 | es6  | demo(见文本链接)、[文本](https://github.com/superstarwulin/mdtext/issues/2)
 3 | redux  | demo、文本
+2 | rn  | 文本(待续)
 4 | react  | demo、文本
 5 | es6  | demo、文本
 6 | immutable  | demo、文本
